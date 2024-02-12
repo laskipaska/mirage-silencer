@@ -4,6 +4,6 @@ ignore everyone in mirage
  
  use notepad++ regular notepad will probably shit its pants and piss em too
  
- <entry key="ignored_player_ids">PASTE NUMBERS HERE</entry>
+ \<entry key="ignored_player_ids">PASTE NUMBERS HERE</entry>
  
  no one can talk to you again.
