@@ -7,3 +7,4 @@ ignore everyone in mirage
  \<entry key="ignored_player_ids">PASTE NUMBERS HERE\</entry>
  
  no one can talk to you again.
+ ...until ids surpass 1360000.
